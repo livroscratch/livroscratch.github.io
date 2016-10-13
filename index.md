@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Início
+redirect_from: "/livro1/"
 ---
 
 ![Capa do livro](/images/cover-full.png)
