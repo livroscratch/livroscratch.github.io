@@ -17,6 +17,7 @@ Mas o que significa afinal «programar»? O que são «programas»? E o que são
 ## Ligações
 
 Linguagens:
+
 * [C](http://bit.ly/linguagem-c)
 * [C++](http://www.stroustrup.com/C++.html)
 * [Java](https://www.oracle.com/java/)
@@ -27,5 +28,6 @@ Linguagens:
 * [Scratch](https://scratch.mit.edu/)
 
 Aprender a programar noutros locais:
+
 * [Code.org](http://code.org/)
 * [Codecademy](https://codecademy.com/)
