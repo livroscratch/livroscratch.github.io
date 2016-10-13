@@ -7,4 +7,8 @@ permalink: /livro1/cap19
 comments: true
 project: http://bit.ly/scratch-cap19
 ---
-Este capítulo…
+
+## Excerto do capítulo
+
+
+…

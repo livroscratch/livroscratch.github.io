@@ -7,4 +7,8 @@ permalink: /livro1/cap13
 comments: true
 project: http://bit.ly/scratch-cap13
 ---
-Este capítulo…
+
+## Excerto do capítulo
+
+
+…
