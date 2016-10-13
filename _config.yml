@@ -6,6 +6,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: livroscratch
 github_username:  livroscratch
+lang: pt-PT
+disqus:
+  shortname: scratchpt
 
 # Build settings
 markdown: kramdown

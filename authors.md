@@ -2,6 +2,7 @@
 layout: page
 title: Autores
 permalink: /autores/
+comments: true
 ---
 
 <img alt="Manuel Menezes de Sequeira" src="/images/manuel.jpeg" height="200" style="float:right"/>

@@ -31,5 +31,3 @@ Estás preparado para o desafio?
 </ul>
 
 <p class="rss-subscribe">Subscrição <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
-
-</div>
