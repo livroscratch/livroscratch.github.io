@@ -14,4 +14,5 @@ Percorreste um longo caminho até este ponto! Seguindo cada um dos capítulos, f
 Que tal o achaste? Espectacular, certo? Podes vê-lo por dentro, como qualquer outro projecto Scratch que esteja partilhado, e aprender através do seu estudo. Nesta fase, no entanto, provavelmente será complexo demais para o estudares. Referimo-lo para demonstrar que o Scratch não é limitado para aprender programação a sério.
 
 Se a limitação, nesta fase, não é a linguagem Scratch, o que te falta então para aprenderes a programar a sério? Numa palavra: programar. Correndo o risco de te aborrecer pela repetição, cá vai de novo: só se aprende a programar a sério programando. Então o que te falta é simplesmente programar. Ou seja, colocares-te desafios e tentares resolvê-los usando o Scratch, não seguindo uma receita, mas sim usando tudo o que sabes e sobretudo a tua criatividade para encontrares respostas em código para esses desafios.
+
 …
