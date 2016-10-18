@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Sítio web do livro Cria o Teu Jogo de Computador
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://scratch.pt" # the base hostname & protocol for your site
-twitter_username: livroscratch
+twitter_username: livro_scratch
 github_username:  livroscratch
 lang: pt-PT
 disqus:
